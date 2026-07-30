@@ -1,2 +1,2 @@
-[News](/pages/news)
+[News](/pages/News)
 

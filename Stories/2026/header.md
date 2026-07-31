@@ -1,2 +1,2 @@
-[Stories](/pages/Stories) > 2026
+[Stories](/pages/Stories/) > 2026
 

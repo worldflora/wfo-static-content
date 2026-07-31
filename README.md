@@ -86,6 +86,19 @@ If a bunch of images are included in the same block in MarkDown and tagged with 
 
 ```
 
+### Right flow
+
+A variation on the float right and left versions of images, tagging an image with `~rightflow` like this:
+
+```
+![Buxus sempervirens ~rightflow](Buxus_sempervirens_IP1204022.jpg)
+```
+will place the image on the right of the text area and flow __all__ subsequent text around it.
+This is good to put at the very top of a page but should be used with caution. If you have multiple images 
+this on a page when the page is resized the flow can break up. This doesn't happen with the plain old ~right and ~left
+tags because they force the paragraph they are embedded in to take up a whole block of the page.
+
+
 ## Lists 
 
 It is common to have sets of things that need to have a web page each and to displayed lists of links to these pages. In the WFO we have a minimum of Taxonomic Expert Networks, Consortium Members and News Items. To achieve this in a semi-automated way with simple MarkDown files we have implemented a form of directory browsing. 

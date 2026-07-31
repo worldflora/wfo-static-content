@@ -15,8 +15,8 @@ $pages_menu = [
         "children" => []
     ],
     [
-        "title" => "News",
-        "path" => "/pages/News",
+        "title" => "Stories",
+        "path" => "/pages/Stories/",
         "children" => []
     ],
     [
@@ -29,12 +29,12 @@ $pages_menu = [
             ],
             [
                     "title" => "Consortium members",
-                    "path" => "/pages/Consortia",
+                    "path" => "/pages/Consortia/",
                     "children" => []
             ],
             [
                     "title" => "Taxonomic Expert Networks",
-                    "path" => "/pages/TENs",
+                    "path" => "/pages/TENs/",
                     "children" => []
             ]
         ]

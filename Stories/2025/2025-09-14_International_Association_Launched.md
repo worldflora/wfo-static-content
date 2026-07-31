@@ -1,0 +1,10 @@
+![International Association Launch ~rightflow](international_association_launch.jpg)
+## World Flora Online Enters a New Era with international Association Launch
+
+A significant milestone has just been reached in our history. During the latest meeting of the World Flora Online (WFO) Council, held from 11 to 13 September at the Geneva Botanical Garden, members formally established the World Flora Online Association under Swiss law. With this official registration, WFO has now gained the legal and institutional framework it needs to strengthen its operations and advance its mission.
+
+This new status marks a turning point in WFO's development. As an association, WFO is now better equipped to pursue its long-term goal of a comprehensive world's online flora, a major contribution to the Global Strategy for Plant Conservation (GSPC) and the broader objectives of the Convention on Biological Diversity (CBD).
+
+The decision to anchor the Association in Switzerland carries strategic importance. By being headquartered at the Geneva Botanical Garden, WFO is positioned at the heart of one of the world's most active hubs for biodiversity and conservation work. This proximity will foster stronger collaboration with leading international organizations based in Geneva, including the International Union for Conservation of Nature (IUCN), the Geneva Environment Network, and the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES).
+
+The creation of the WFO Association not only strengthens the governance and sustainability of the initiative but also reinforces the global commitment to building a freely accessible, authoritative, and comprehensive online resource on the world's plants. This milestone paves the way for new opportunities in research, conservation and policy, ensuring that WFO continues to serve as a vital tool in addressing the challenges of biodiversity loss and environmental change.

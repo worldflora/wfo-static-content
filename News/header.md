@@ -1,2 +1,0 @@
-[News](/pages/News)
-

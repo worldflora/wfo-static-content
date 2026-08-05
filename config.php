@@ -29,7 +29,7 @@ $pages_menu = [
             ],
             [
                     "title" => "Consortium members",
-                    "path" => "/pages/Consortia/",
+                    "path" => "/pages/Consortium/",
                     "children" => []
             ],
             [

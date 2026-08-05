@@ -1,4 +1,4 @@
-![Jardín Botánico Canario Viera y Clavijo ~left](Logo-del-JardínCSIC.jpg)
+![Jardín Botánico Canario Viera y Clavijo ~rightflow](Logo-del-JardínCSIC.jpg)
 
 # Jardín Botánico Canario Viera y Clavijo
 

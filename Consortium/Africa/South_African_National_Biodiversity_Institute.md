@@ -3,7 +3,7 @@
 
 The [South African National Biodiversity Institute (SANBI)](https://www.sanbi.org/) contributes to South Africa's sustainable development by facilitating access to biodiversity data, generating information and knowledge, building capacity, providing policy advice, and showcasing and conserving biodiversity in its national botanical and zoological gardens.
 
-[![<p>The King Protea (<em>Pr</em><em>otea cynaroides</em>) <em> </em>at Kirstenbosh.</p>](https://about.worldfloraonline.org/images/uploads/article_images/banner_KIRSTENBOSCH-Protea-Garden-King-Protea-Aug-Sep-ALN-041-1110x740px.jpg)](https://about.worldfloraonline.org/images/uploads/article_images/banner_KIRSTENBOSCH-Protea-Garden-King-Protea-Aug-Sep-ALN-041-1110x740px.jpg)
+![The King Protea (Protea cynaroides) at Kirstenbosh.](king_protea.jpg)
 
 The King Protea (Protea cynaroides) at Kirstenbosh.
 
@@ -33,9 +33,7 @@ Visit [South African National Biodiversity Institute's website.](https://www.san
 
 Located in: Pretoria, South Africa
 
-[+](https://about.worldfloraonline.org/consortium-members/south-african-national-biodiversity-institute# "Zoom in")[-](https://about.worldfloraonline.org/consortium-members/south-african-national-biodiversity-institute# "Zoom out")
-
-[Leaflet](https://leafletjs.com/ "A JS library for interactive maps") | Map data © [OpenStreetMap](https://www.openstreetmap.org/) contributors, [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/), Imagery © [Mapbox](https://www.mapbox.com/)
+<!--GEO:  -->
 
 ### Associated WFO Contacts:
 

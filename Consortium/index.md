@@ -14,6 +14,16 @@
 [![Forest Research Institute Malaysia ~logoshow](Asia-Tropical/forest_research_institute_malaysia.png)](Asia-Tropical/Forest_Research_Institute_Malaysia.md)
 [![National Biodiversity Centre, Bhutan ~logoshow](Asia-Tropical/bhutan_national_biodiversity_centre_logo.png)](Asia-Tropical/National_Biodiversity_Centre,_Bhutan.md)
 [![Singapore Botanic Garden ~logoshow](Asia-Tropical/singapore_logo.png)](Asia-Tropical/Singapore_Botanic_Garden.md)
+[![Herbario Nacional de Bolivia (LPB) ~logoshow](Southern_America/lpb_logo.jpg)](Southern_America/Herbario_Nacional_de_Bolivia_(LPB).md)
+[![Instituto de Botánica Darwinion ~logoshow](Southern_America/darwinion_logo.jpg)](Southern_America/Instituto_de_Botánica_Darwinion.md)
+[![Instituto de Pesquisas Jardim Botânico do Rio de Janeiro ~logoshow](Southern_America/Jardim_Botanico_RJ.svg.png)](Southern_America/Instituto_de_Pesquisas_Jardim_Botânico_do_Rio_de_Janeiro.md)
+[![Instituto Nacional de Ciência e Tecnologia (INCT) Virtual Herbarium ~logoshow](Southern_America/inct_logo.png)](Southern_America/Instituto_Nacional_de_Ciência_e_Tecnologia_(INCT)_Virtual_Herbarium.md)
+[![Jardín Botánico de Cartagena Guillermo Piñeres ~logoshow](Southern_America/jbc_logo.png)](Southern_America/Jardín_Botánico_de_Cartagena_Guillermo_Piñeres.md)
+[![Jardín Botánico La Laguna ~logoshow](Southern_America/LAGU_logo.png)](Southern_America/Jardín_Botánico_La_Laguna.md)
+[![Jardin Botanico Nacional de Cuba ~logoshow](Southern_America/cuba_botanics_logo.png)](Southern_America/Jardin_Botanico_Nacional_de_Cuba.md)
+[![Leon Levy Native Plant Preserve, Bahamas National Trust ~logoshow](Southern_America/Leon-Levy-Native-Plant-Preserve-logo.png)](Southern_America/Leon_Levy_Native_Plant_Preserve,_Bahamas_National_Trust.md)
+[![National Biodiversity Institute (INBio) of Costa Rica ~logoshow](Southern_America/InbioLogo.png)](Southern_America/National_Biodiversity_Institute_(INBio)_of_Costa_Rica.md)
+[![Universidad de la República ~logoshow](Southern_America/university_of_the_republic_logo.png)](Southern_America/Universidad_de_la_República.md)
 
 ## Consortium Members
 

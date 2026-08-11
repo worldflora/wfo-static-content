@@ -12,16 +12,16 @@ Smithsonian National Museum of Natural History
 
 
 ## Southern America
-Herbario Nacional de Bolivia (LPB)
-Instituto de Botánica Darwinion
-Instituto de Pesquisas Jardim Botânico do Rio de Janeiro
-Instituto Nacional de Ciência e Tecnologia (INCT) Virtual Herbarium
-Jardín Botánico de Cartagena Guillermo Piñeres
-Jardín Botánico La Laguna
-Jardin Botanico Nacional de Cuba
-Leon Levy Native Plant Preserve/Bahamas National Trust
-National Biodiversity Institute (INBio) of Costa Rica
-Universidad de la República
+- Herbario Nacional de Bolivia (LPB)
+- Instituto de Botánica Darwinion
+- Instituto de Pesquisas Jardim Botânico do Rio de Janeiro
+- Instituto Nacional de Ciência e Tecnologia (INCT) Virtual Herbarium
+- Jardín Botánico de Cartagena Guillermo Piñeres
+- Jardín Botánico La Laguna
+- Jardin Botanico Nacional de Cuba
+- Leon Levy Native Plant Preserve, Bahamas National Trust
+- National Biodiversity Institute (INBio) of Costa Rica
+- Universidad de la República
 Universidad Nacional de Colombia
 
 ## Asia-Tropical

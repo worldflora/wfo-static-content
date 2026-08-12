@@ -24,6 +24,15 @@
 [![Leon Levy Native Plant Preserve, Bahamas National Trust ~logoshow](Southern_America/Leon-Levy-Native-Plant-Preserve-logo.png)](Southern_America/Leon_Levy_Native_Plant_Preserve,_Bahamas_National_Trust.md)
 [![National Biodiversity Institute (INBio) of Costa Rica ~logoshow](Southern_America/InbioLogo.png)](Southern_America/National_Biodiversity_Institute_(INBio)_of_Costa_Rica.md)
 [![Universidad de la República ~logoshow](Southern_America/university_of_the_republic_logo.png)](Southern_America/Universidad_de_la_República.md)
+[![Botanical Research Institute of Texas ~logoshow](Northern_America/brit-logo.png)](Northern_America/Botanical_Research_Institute_of_Texas.md)
+[![Flora of North America Association ~logoshow](Northern_America/fna-logo.jpg)](Northern_America/Flora_of_North_America_Association.md)
+[![Flora of the World Foundation ~logoshow](Northern_America/fow-logo.png)](Northern_America/Flora_of_the_World_Foundation.md)
+[![Instituto de Biología, Universidad Nacional Autónoma de México (UNAM) ~logoshow](Northern_America/unam.jpg)](Northern_America/Instituto_de_Biología,_Universidad_Nacional_Autónoma_de_México_(UNAM).md)
+[![Instituto de Ecología A.C. ~logoshow](Northern_America/instituto_de_ecologia_logo.png)](Northern_America/Instituto_de_Ecología_A.C..md)
+[![Missouri Botanical Garden ~logoshow](Northern_America/MissouriBotanicalGardenStacked-13nfat5-19334rv.jpg)](Northern_America/Missouri_Botanical_Garden.md)
+[![New York Botanic Garden ~logoshow](Northern_America/NYBG_Logo_Lockup_Black_RGB.png)](Northern_America/New_York_Botanical_Garden.md)
+[![Smithsonian National Museum of Natural History ~logoshow](Northern_America/smithsonian_logo.gif)](Northern_America/Smithsonian_National_Museum_of_Natural_History.md)
+
 
 ## Consortium Members
 

@@ -1,15 +1,14 @@
 # Temporary file of Consortium members we are making pages for
 
 ## Northern America
-Botanical Research Institute of Texas
-Flora of North America Association
-Flora of the World Foundation
-Instituto de Biología, Universidad Nacional Autónoma de México (UNAM)
-Instituto de Ecología A.C.
-Missouri Botanical Garden
-New York Botanical Garden
-Smithsonian National Museum of Natural History
-
+- Botanical Research Institute of Texas
+- Flora of North America Association
+- Flora of the World Foundation
+- Instituto de Biología, Universidad Nacional Autónoma de México (UNAM)
+- Instituto de Ecología A.C.
+- Missouri Botanical Garden
+- New York Botanical Garden
+- Smithsonian National Museum of Natural History
 
 ## Southern America
 - Herbario Nacional de Bolivia (LPB)
@@ -22,7 +21,7 @@ Smithsonian National Museum of Natural History
 - Leon Levy Native Plant Preserve, Bahamas National Trust
 - National Biodiversity Institute (INBio) of Costa Rica
 - Universidad de la República
-Universidad Nacional de Colombia
+- Universidad Nacional de Colombia
 
 ## Asia-Tropical
 - Botanical Survey of India

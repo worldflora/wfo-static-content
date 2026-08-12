@@ -32,6 +32,8 @@
 [![Missouri Botanical Garden ~logoshow](Northern_America/MissouriBotanicalGardenStacked-13nfat5-19334rv.jpg)](Northern_America/Missouri_Botanical_Garden.md)
 [![New York Botanic Garden ~logoshow](Northern_America/NYBG_Logo_Lockup_Black_RGB.png)](Northern_America/New_York_Botanical_Garden.md)
 [![Smithsonian National Museum of Natural History ~logoshow](Northern_America/smithsonian_logo.gif)](Northern_America/Smithsonian_National_Museum_of_Natural_History.md)
+[![Botanic Gardens Conservation International (BGCI) ~logoshow](Global/BGCI_Logo_2.jpg)](Global/Botanic_Gardens_Conservation_International_(BGCI).md)
+[![International Association for Plant Taxonomy ~logoshow](Global/IAPT_logo_color_edited.png)](Global/International_Association_for_Plant_Taxonomy.md)
 
 
 ## Consortium Members

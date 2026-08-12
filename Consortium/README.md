@@ -44,7 +44,7 @@
 
 
 ## Global
-Botanic Gardens Conservation International: BGCI
+- Botanic Gardens Conservation International (BGCI)
 International Association for Plant Taxonomy
 
 ## Africa

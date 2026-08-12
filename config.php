@@ -23,11 +23,6 @@ $pages_menu = [
         "title" => "Who we are",
         "children" => [
             [
-                    "title" => "Governance",
-                    "path" => "/pages/governance.md",
-                    "children" => []
-            ],
-            [
                     "title" => "Consortium members",
                     "path" => "/pages/Consortium/",
                     "children" => []
@@ -35,6 +30,11 @@ $pages_menu = [
             [
                     "title" => "Taxonomic Expert Networks",
                     "path" => "/pages/TENs/",
+                    "children" => []
+            ],
+            [
+                    "title" => "Governance",
+                    "path" => "/pages/governance.md",
                     "children" => []
             ]
         ]

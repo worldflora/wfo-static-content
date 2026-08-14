@@ -53,20 +53,20 @@ International Association for Plant Taxonomy
 - National Botanical Research Institute, National Herbarium of Namibia
 
 ## Europe
-Botanic Garden and Botanical Museum Berlin, Dahlem Centre of Plant Science (DCPS)
-Botany Department of Trinity College Dublin
-Core Facility Botanical Garden of the University of Vienna
-Euro+Med Plantbase
-European Botanic Gardens Consortium
-Flora Ibérica: Plantas vasculares de la Península Ibérica e Islas Baleares
-Flora Malesiana Foundation
-Geneva Botanic Garden
-Global Biodiversity Information Facility
-InfoFlora
-Institute of Botany, Academy of Sciences of the Czech Republic
-Institute of Botany, Slovak Academy of Sciences
-Komarov Institute of Botany, Russian Academy of Sciences
-Meise Botanic Garden
+- Botanic Garden and Botanical Museum Berlin, Dahlem Centre of Plant Science (DCPS)
+- Botany Department of Trinity College Dublin
+- Core Facility Botanical Garden of the University of Vienna
+- Euro+Med Plantbase
+- European Botanic Gardens Consortium
+- Flora Ibérica: Plantas vasculares de la Península Ibérica e Islas Baleares
+- Flora Malesiana Foundation
+- Geneva Botanic Garden
+- Global Biodiversity Information Facility
+- InfoFlora
+- Institute of Botany, Academy of Sciences of the Czech Republic
+- Institute of Botany, Slovak Academy of Sciences
+- Komarov Institute of Botany, Russian Academy of Sciences
+- Meise Botanic Garden
 Muséum National d'Histoire Naturelle
 Natural History Museum
 Naturalis Biodiversity Center

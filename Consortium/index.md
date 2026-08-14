@@ -34,6 +34,20 @@
 [![Smithsonian National Museum of Natural History ~logoshow](Northern_America/smithsonian_logo.gif)](Northern_America/Smithsonian_National_Museum_of_Natural_History.md)
 [![Botanic Gardens Conservation International (BGCI) ~logoshow](Global/BGCI_Logo_2.jpg)](Global/Botanic_Gardens_Conservation_International_(BGCI).md)
 [![International Association for Plant Taxonomy ~logoshow](Global/IAPT_logo_color_edited.png)](Global/International_Association_for_Plant_Taxonomy.md)
+[![Botanic Garden and Botanical Museum Berlin, Dahlem Centre of Plant Science (DCPS) ~logoshow](Europe/bgbm_logo.png)](Europe/bgbm_logo.png)
+[![Botany Department of Trinity College Dublin ~logoshow](Europe/trinity_logo.png)](Europe/Botany_Department_of_Trinity_College_Dublin.md)
+[![Core Facility Botanical Garden of the University of Vienna ~logoshow](Europe/vienna_logo.png)](Europe/Core_Facility_Botanical_Garden_of_the_University_of_Vienna.md)
+[![Euro+Med Plantbase ~logoshow](Europe/euro+med_logo.png)](Europe/Euro%2BMed_Plantbase.md)
+[![European Botanic Gardens Consortium ~logoshow](Europe/european_botanic_gardens_consortium_logo.png)](Europe/European_Botanic_Gardens_Consortium.md)
+[![Flora Ibérica: Plantas vasculares de la Península Ibérica e Islas Baleares ~logoshow](Europe/flora_iberica_logo.png)](Europe/Flora_Ibérica:_Plantas_vasculares_de_la_Península_Ibérica_e_Islas_Baleares.md)
+[![Flora Malesiana Foundation ~logoshow](Europe/flora_malesiana_logo.png)](Europe/Flora_Malesiana_Foundation.md)
+[![Geneva Botanic Garden ~logoshow](Europe/JBG_LOGO-Black.png)](Europe/Geneva_Botanic_Garden.md)
+[![Global Biodiversity Information Facility ~logoshow](Global/gbif_logo.png)](Global/Global_Biodiversity_Information_Facility.md)
+[![InfoFlora ~logoshow](Europe/infoflora_logo.png)](Europe/InfoFlora.md)
+[![Institute of Botany, Academy of Sciences of the Czech Republic ~logoshow](Europe/CAS-Logo.png)](Europe/Institute_of_Botany,_Academy_of_Sciences_of_the_Czech_Republic.md)
+[![Institute of Botany, Slovak Academy of Sciences ~logoshow](Europe/slovak_logo.png)](Europe/Institute_of_Botany,_Slovak_Academy_of_Sciences.md)
+[![Komarov Institute of Botany, Russian Academy of Sciences ~logoshow](Europe/komarov_logo.jpg)](Europe/Komarov_Institute_of_Botany,_Russian_Academy_of_Sciences.md)
+
 
 
 ## Consortium Members

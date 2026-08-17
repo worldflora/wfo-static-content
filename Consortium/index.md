@@ -47,8 +47,18 @@
 [![Institute of Botany, Academy of Sciences of the Czech Republic ~logoshow](Europe/CAS-Logo.png)](Europe/Institute_of_Botany,_Academy_of_Sciences_of_the_Czech_Republic.md)
 [![Institute of Botany, Slovak Academy of Sciences ~logoshow](Europe/slovak_logo.png)](Europe/Institute_of_Botany,_Slovak_Academy_of_Sciences.md)
 [![Komarov Institute of Botany, Russian Academy of Sciences ~logoshow](Europe/komarov_logo.jpg)](Europe/Komarov_Institute_of_Botany,_Russian_Academy_of_Sciences.md)
-
-
+[![Muséum National d'Histoire Naturelle ~logoshow](Europe/mnhn_logo.png)](Europe/Muséum_National_d'Histoire_Naturelle.md)
+[![Natural History Museum ~logoshow](Europe/nhm_logo.png)](Europe/Natural_History_Museum.md)
+[![Naturalis Biodiversity Center ~logoshow](Europe/naturalis_logo.png)](Europe/Naturalis_Biodiversity_Center.md)
+[![Nezahat Gökyiğit Botanik Bahçesi (NGBB) ~logoshow](Europe/ngbb_logo.png)](Europe/Nezahat_Gökyiğit_Botanik_Bahçesi_(NGBB).md)
+[![Orto e Museo Botanico dell'Università di Pisa ~logoshow](Europe/pisa_botanics_logo.png)](Europe/Orto_e_Museo_Botanico_dell'Università_di_Pisa.md)
+[![Pl@ntNet: A Collaborative Platform for Plant Identification ~logoshow](Europe/plantnet_quadri_300dpi.jpg)](Europe/Pl@ntNet.md)
+[![Real Jardín Botánico CSIC ~logoshow](Europe/RJB_Prueba.png)](Europe/Real_Jardín_Botánico_CSIC.md)
+[![Royal Botanic Garden Edinburgh ~logoshow](Europe/RBGE_Edinburgh_Core_Logo_Forest_Green_RGB.png)](Europe/Royal_Botanic_Garden_Edinburgh.md)
+[![Royal Botanic Gardens, Kew ~logoshow](Europe/kew_logo.jpg)](Europe/Royal_Botanic_Gardens,_Kew.md)
+[![Species2000/Catalogue of Life ~logoshow](Europe/col_logo.jpg)](Europe/Species2000_|_Catalogue_of_Life.md)
+[![Tsitsin Main Botanical Garden ~logoshow](Europe/tsitsin_logo.jpg)](Europe/Tsitsin_Main_Botanical_Garden.md)
+[![The Linnean Society of London ~logoshow](Europe/linn_soc_logo.jpg)](Europe/The_Linnean_Society_of_London.md)
 
 ## Consortium Members
 

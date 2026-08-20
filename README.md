@@ -86,6 +86,8 @@ If a bunch of images are included in the same block in MarkDown and tagged with 
 
 ```
 
+The alt text minus the ` ~grid` will be used as a tooltip for the image.
+
 ### Right flow
 
 A variation on the float right and left versions of images, tagging an image with `~rightflow` like this:
@@ -113,8 +115,14 @@ All lists are in alphabetical, ascending order unless the first item in the file
 
 The directory is checked for an `index.md` file before the list is rendered. If present then the content of this file is included above the list. This allows for a heading and explanatory text.
 
+Directory names starting with and underscore are ignored for building lists. Useful for `_images` folders. `README.md` files are also ignored so it is possible to leave instructions in different parts of the site.
+
 ## Headers
 
 It can be useful to have a small header that is common across similar pages. This is particularly useful when items form part of a list and we need to be able to navigate to the list they are part of.
 
 When any MarkDown file is render a check is done for a `header.md` file in the same directory and if it is present it is included at the start of any content.
+
+## Useful
+
+This is a useful site for making HTML into MD <https://euangoddard.github.io/clipboard2markdown/>

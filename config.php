@@ -36,6 +36,11 @@ $pages_menu = [
                     "title" => "Governance",
                     "path" => "/pages/governance.md",
                     "children" => []
+            ],
+            [
+                    "title" => "Council meeting image record",
+                    "path" => "/pages/council_images/",
+                    "children" => []
             ]
         ]
     ],
@@ -49,12 +54,12 @@ $pages_menu = [
             ],
             [
                     "title" => "Documents",
-                    "path" => "/pages/Documents",
+                    "path" => "/pages/Documents/",
                     "children" => []
             ],
             [
                     "title" => "Floras",
-                    "path" => "/pages/Floras",
+                    "path" => "/pages/Floras/",
                     "children" => []
             ]
         ]

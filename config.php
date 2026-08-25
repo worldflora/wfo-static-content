@@ -10,16 +10,6 @@
 
 $pages_menu = [
     [
-        "title" => "About WFO",
-        "path" => "/pages/about.md",
-        "children" => []
-    ],
-    [
-        "title" => "Stories",
-        "path" => "/pages/Stories/",
-        "children" => []
-    ],
-    [
         "title" => "Who we are",
         "children" => [
             [
@@ -38,11 +28,21 @@ $pages_menu = [
                     "children" => []
             ],
             [
-                    "title" => "Council meeting image record",
+                    "title" => "Council photos",
                     "path" => "/pages/council_images/",
                     "children" => []
             ]
         ]
+    ],
+    [
+        "title" => "What we do",
+        "path" => "/pages/about.md",
+        "children" => []
+    ],
+    [
+        "title" => "Stories",
+        "path" => "/pages/Stories/",
+        "children" => []
     ],
     [
         "title" => "Resources",

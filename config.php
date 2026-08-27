@@ -48,8 +48,8 @@ $pages_menu = [
         "title" => "Resources",
         "children" => [
             [
-                    "title" => "FAQ",
-                    "path" => "/pages/faq.md",
+                    "title" => "Data & APIs",
+                    "path" => "/pages/data_and_apis.md",
                     "children" => []
             ],
             [
@@ -60,6 +60,11 @@ $pages_menu = [
             [
                     "title" => "Floras",
                     "path" => "/pages/Floras/",
+                    "children" => []
+            ],
+            [
+                    "title" => "FAQ",
+                    "path" => "/pages/faq.md",
                     "children" => []
             ]
         ]

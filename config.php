@@ -58,13 +58,13 @@ $pages_menu = [
                     "children" => []
             ],
             [
-                    "title" => "Floras",
-                    "path" => "/pages/Floras/",
+                    "title" => "FAQ",
+                    "path" => "/pages/faq.md",
                     "children" => []
             ],
             [
-                    "title" => "FAQ",
-                    "path" => "/pages/faq.md",
+                    "title" => "Floras",
+                    "path" => "/pages/Floras/",
                     "children" => []
             ]
         ]

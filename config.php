@@ -10,32 +10,7 @@
 
 $pages_menu = [
     [
-        "title" => "Who we are",
-        "children" => [
-            [
-                    "title" => "Consortium members",
-                    "path" => "/pages/Consortium/",
-                    "children" => []
-            ],
-            [
-                    "title" => "Taxonomic Expert Networks",
-                    "path" => "/pages/TENs/",
-                    "children" => []
-            ],
-            [
-                    "title" => "Governance",
-                    "path" => "/pages/governance.md",
-                    "children" => []
-            ],
-            [
-                    "title" => "Council photos",
-                    "path" => "/pages/council_images/",
-                    "children" => []
-            ]
-        ]
-    ],
-    [
-        "title" => "What we do",
+        "title" => "About us",
         "path" => "/pages/about.md",
         "children" => []
     ],
@@ -43,6 +18,26 @@ $pages_menu = [
         "title" => "Stories",
         "path" => "/pages/Stories/",
         "children" => []
+    ],
+    [
+        "title" => "Members",
+        "children" => [
+            [
+                "title" => "Consortium Members",
+                "path" => "/pages/Consortium/",
+                "children" => []
+            ],
+            [
+                "title" => "Taxonomic Expert Networks",
+                "path" => "/pages/TENS/",
+                "children" => []
+            ],
+            [
+                "title" => "Council Photos",
+                "path" => "/pages/council_images/",
+                "children" => []
+            ]     
+        ]
     ],
     [
         "title" => "Resources",

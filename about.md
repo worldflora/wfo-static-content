@@ -1,24 +1,41 @@
 
-# What we do
+[FIXME: With a short professional video presentation explaining WFO and its role]
 
-## Mission
-The Mission of WFO is to support the conservation, restoration and sustainable use of plant diversity and natural habitats by collating, compiling, developing, organizing, make accessible and disseminating accurate and up-to-date scientific information on all known plant species of the world, and to ensure that this information is available using FAIR principles.
+## World Flora Online: A Global Gateway to Plant Knowledge
 
-## Mechanism
+Plants are the foundation of life on earth. They form the basis of most terrestrial ecosystems and hold the keys to addressing many of the world’s health, social, environmental, and economic challenges. Among the estimated 450,000 known plant species, 40% are threatened with extinction and over 70,000 await scientific description. Preserving this incredible diversity begins with a vital first step: documenting it.
 
-The WFO has formed into a [consortium](/pages/Consortium/) of organizations that creates and maintains an open-access, web-based compendium of the world's 400,000 species of vascular plants and mosses. It is a __collaborative__, __international__ project, building upon existing knowledge and published floras, checklists and revisions but also involves the collection and generation of new information on poorly known plant groups and plants in unexplored regions.
+## Documenting Earth’s Plant Diversity
 
-Information is managed in two parts:
+World Flora Online (WFO) is a unique international initiative that provides open-access, authoritative and continually updated information on all known plant species. WFO already includes over 380,000 plant species, with the goal of providing up-to-date taxonomic treatments for 80% of all known plants by 2030.
 
-1. The __WFO Plant List__ is a consensus classification of vascular plants and bryophytes. Several hundred specialists, working in [Taxonomic Expert Networks (TENs)](/pages/TENs/), curate a list of the around 1.7 million known plant names into a hierarchical taxonomy of about four hundred thousand accepted species. This forms the *taxonomic backbone* used to organize the data on this website. New versions of the plant list are published every six months under an open license. The list is made available for download and through APIs. It has become a vital resource for collaboration within and between biodiversity projects and organizations world wide.
-2. __WFO Content__ consists of descriptive data from trusted, published sources organized according to the current taxonomic backbone. Content includes multilingual diagnostic descriptions, IUCN Red List status, CITES Appendix listing, vernacular names and distributions.
+## One Global Resource for all Known Plants 
 
-We have a detailed <a href="/pages/Documents/2._Strategic Plan and Memorandum of Understanding (MOU\)/WFO-Strategy-Plan-adopted-Mar-2024.pdf">Strategic Plan for 2022-2030</a>.
+WFO brings together two fundamental components into a single global portal: a consensus classification of the world’s plants along with detailed species profiles, including descriptions, synonyms, vernacular names, conservation status, threats, images and maps.
 
-## Origins
+WFO also highlights where new information is needed, for example on poorly known groups and unexplored regions, stimulating research and collaborations to fill those knowledge gaps.
 
-World Flora Online is the international initiative to achieve Target 1 of the Global Strategy for Plant Conservation and provides a global overview of the diversity of plant species. It is the essential tool for conservation planners, policymakers and practitioners at all levels.
+## An Essential Tool for Conservation and Biodiversity Preservation 
 
-<div class="video-wrapper">
-<!-- Intro video here -->
-</div>
+A full and authoritative inventory of plant life is essential in the face of accelerating global change.
+
+WFO equips scientists, decision-makers, and conservation practitioners with the knowledge to protect the world’s botanical wealth. WFO supports conservation planning, policy-making, botanical research and sustainable use of plant resources.
+
+## Governance
+
+WFO is created, curated, moderated, and updated by a global community of botanical experts.
+
+Led by a consortium of over 60 botanical institutions worldwide, this collaborative effort ensures that taxonomic knowledge is widely shared and contributes directly to one of humanity’s greatest challenges: preserving biodiversity.
+
+Member institutions are represented on the WFO Council, which meets twice a year, oversees the initiative and operates three working groups: 
+- __Technical Working Group__ – responsible for management of the WFO data infrastructure and website
+- __Taxonomic Working Group__ – responsible for maintaining the taxonomic backbone, a comprehensive global consensus classification of accepted plant names and synonyms, as well as the scientific content of WFO
+- __Communications Working__ Group – responsible for promoting WFO, engaging with stakeholders, and communicating the initiative’s activities and achievements.
+
+WFO is formally established as an international association registered in Geneva, Switzerland.
+
+## Our members 
+
+The WFO Council brings together 62 botanic gardens and institutions from around the world. Together, they form a global network committed to documenting and conserving the world’s plant diversity. 
+As WFO continues to grow, we welcome new Consortium Members who wish to contribute their expertise and join this collective effort to support biodiversity conservation worldwide.
+

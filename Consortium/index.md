@@ -60,9 +60,11 @@
 [![Tsitsin Main Botanical Garden ~logoshow](Europe/tsitsin_logo.jpg)](Europe/Tsitsin_Main_Botanical_Garden.md)
 [![The Linnean Society of London ~logoshow](Europe/linn_soc_logo.jpg)](Europe/The_Linnean_Society_of_London.md)
 
-## Consortium Members
+## Our Members
+ 
+The WFO Council brings together 62 botanic gardens and institutions from around the world. Together, they form a global network committed to documenting and conserving the world’s plant diversity. 
 
-Consortium Members are the organisations that have signed the MOU which allows them representation on the World Flora Online Council. We currently have 61 botanic gardens and botanical institutes represented on the World Flora Online Council. We would always welcome additional Consortium Members to to help deliver the vision of a World Flora.
+As WFO continues to grow, we welcome new Consortium Members who wish to contribute their expertise and join this collective effort to support biodiversity conservation worldwide.
 
 
 <!-- Consortium members will be listed below here -->

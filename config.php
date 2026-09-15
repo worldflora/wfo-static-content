@@ -29,7 +29,7 @@ $pages_menu = [
             ],
             [
                 "title" => "Taxonomic Expert Networks",
-                "path" => "/pages/TENS/",
+                "path" => "/pages/TENs/",
                 "children" => []
             ],
             [

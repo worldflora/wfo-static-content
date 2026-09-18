@@ -5,8 +5,6 @@ The museum collects, preserves, researches, and shares knowledge about our cultu
 
 Find out more at [https://www4.uib.no/en/university-museum-of-bergen](https://www4.uib.no/en/university-museum-of-bergen)
 
-![Core Facility Botanical Garden of the University of Vienna](csm_botanischer_garten_yannik_steer_7e44a37d6d.jpg)
-
 The museum is home to several beautiful and biodiverse research and exhibition gardens. The Museum Garden is located adjacent to the museum buildings in central Bergen, while the Arboretum and the Bergen Botanical Garden are located at Milde.
 
 Visit [https://www4.uib.no/en/university-museum-of-bergen/the-university-gardens](https://www4.uib.no/en/university-museum-of-bergen/the-university-gardens)

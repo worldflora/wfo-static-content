@@ -59,6 +59,7 @@
 [![Species2000/Catalogue of Life ~logoshow](Europe/col_logo.jpg)](Europe/Species2000_|_Catalogue_of_Life.md)
 [![Tsitsin Main Botanical Garden ~logoshow](Europe/tsitsin_logo.jpg)](Europe/Tsitsin_Main_Botanical_Garden.md)
 [![The Linnean Society of London ~logoshow](Europe/linn_soc_logo.jpg)](Europe/The_Linnean_Society_of_London.md)
+[![University of Bergen ~logoshow](Europe/University_of_Bergen_emblem.svg)](Europe/The_Department_of_Natural_History_at_the_University_Museum_of_Bergen.md)
 
 ## Our Members
  

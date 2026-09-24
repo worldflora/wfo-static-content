@@ -17,8 +17,8 @@ WFO maintains a global consensus classification for all bryophytes and vascular 
 [![Asparagaceae - subfamily Scilloideae ~grid](./Angiosperms/_Asparagaceae_-_subfamily_Scilloideae/Scilloideae_WFO_TEN_homepage_small.jpg)](./Angiosperms/Asparagaceae_-_subfamily_Scilloideae.md)
 [![Begoniaceae ~grid](./Angiosperms/_Begoniaceae/Photo_5774ee24ada66-3_small.jpg)](./Angiosperms/Begoniaceae.md)
 [![Boraginales ~grid](./Angiosperms/_Boraginales/Anchusa_azurea_Maria-Anna-Vasile_small.jpg)](./Angiosperms/Boraginales.md)
-
 [![Brassicaceae ~grid](./Angiosperms/_Brassicaceae/Coluteocarpus_vesicaria_small.jpg)](./Angiosperms/Brassicaceae.md)
+
 [![Chrysobalanaceae ~grid](./Angiosperms/_Chrysobalanaceae/Hirtella_physophora-R.G.Barbosa-Silva.jpeg)](./Angiosperms/_Chrysobalanaceae/Hirtella_physophora-R.G.Barbosa-Silva.jpeg)
 [![Clusiaceae ~grid](./Angiosperms/_Clusiaceae/Clusia_minor.jpg)](./Angiosperms/Clusiaceae.md)
 [![Convolvulaceae ~grid](./Angiosperms/_Convolvulaceae/1_Stictocardia_beraviensis.jpg)](./Angiosperms/Convolvulaceae.md)
@@ -26,14 +26,16 @@ WFO maintains a global consensus classification for all bryophytes and vascular 
 [![Fabaceae ~grid](./Angiosperms/_Fabaceae/P1140016.jpg)](./Angiosperms/Fabaceae.md)
 [![Fagaceae ~grid](./Angiosperms/_Fagaceae/Quercus-coccifera-CAMERON.jpg)](./Angiosperms/Fagaceae.md)
 [![Gesneriaceae ~grid](./Angiosperms/_Gesneriaceae/DSCN1632.jpg)](./Angiosperms/Gesneriaceae.md)
-
 [![Malpighiaceae ~grid](./Angiosperms/_Malpighiaceae/Stigmaphyllon_angustilobum_RFAlmeida.jpg)](./Angiosperms/Malpighiaceae.md)
+
 [![Myrtaceae ~grid](./Angiosperms/_Myrtaceae/Eucalyptus-caleyi.png)](./Angiosperms/Myrtaceae.md)
 [![Oxalidales ~grid](./Angiosperms/_Oxalidales/Cunonia-atrorubens.jpg)](./Angiosperms/Oxalidales.md)
 [![Papaveraceae - Tribe Papaverae ~grid](./Angiosperms/_Papaveraceae_-_Tribe_Papaverae/DSC_0062-Meconopsis-discgera_small.jpg)](./Angiosperms/Papaveraceae_-_Tribe_Papaverae.md)
 [![Podostemaceae ~grid](./Angiosperms/_Podostemaceae/P1080192.jpg)](./Angiosperms/Podostemaceae.md)
-[![Salicaceae and Lacistemataceae](./Angiosperms/_Salicaceae_and_Lacistemataceae/mac00570.jpg)](./Angiosperms/Salicaceae_and_Lacistemataceae.md)
-[![Sapindaceae](./Angiosperms/_Sapindaceae/Acer-pycnanthum-credit-Dan-Crowley-5_small.jpg)](./Angiosperms/Sapindaceae.md)
+[![Salicaceae and Lacistemataceae ~grid](./Angiosperms/_Salicaceae_and_Lacistemataceae/mac00570.jpg)](./Angiosperms/Salicaceae_and_Lacistemataceae.md)
+[![Sapindaceae ~grid](./Angiosperms/_Sapindaceae/Acer-pycnanthum-credit-Dan-Crowley-5_small.jpg)](./Angiosperms/Sapindaceae.md)
+[![Solanaceae - SolanaceaeSource.org ~grid](./Angiosperms/_Solanaceae/small.jpg)](./Angiosperms/Solanaceae.md)
+[![Velloziaceae ~grid](./Angiosperms/_Velloziaceae/Xerophyta-elegans.jpg)](./Angiosperms/Velloziaceae.md)
 
 </div>
 

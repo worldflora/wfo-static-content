@@ -1,8 +1,8 @@
 ## Oxalidales
 
-Administers: Brunelliaceae, Cephalotaceae, Connaraceae, Cunoniaceae, Elaeocarpaceae, Huaceae & Oxalidaceae
+__Administers:__ [Oxalidales](/wfo-9000000369): Brunelliaceae, Cephalotaceae, Connaraceae, Cunoniaceae, Elaeocarpaceae, Huaceae & Oxalidaceae
 
-Primary TENs contact: [Yohan Pillon](mailto:)
+Primary TENs contact: Yohan Pillon
 
 > The order Oxalidales comprises six families whose affinities were largely unknown before the advent of molecular systematics: Brunelliaceae, Cephalotaceae, Connaraceae, Cunoniaceae and Oxalidaceae. Together, these families encompass around 60 genera and approximately 2,100 species of herbs, vines, shrubs, large trees and carnivorous plants, which are mostly found in tropical regions and the southern hemisphere. The group includes several edible species, such as starfruit, Davidson's plum and oca.
 

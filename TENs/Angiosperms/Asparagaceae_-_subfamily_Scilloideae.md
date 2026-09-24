@@ -2,9 +2,9 @@
 
 ![Asparagaceae - subfamily Scilloideae](./Asparagaceae_-_subfamily_Scilloideae/_Scilloideae_WFO_TEN_homepage.jpg)
 
-Administers: Asparagaceae subfam. Scilloideae
+__Administers:__ [Asparagaceae](/wfo-7000000050) subfamily [Scilloideae](/wfo-4100001838)
 
-Primary TENs contact: [Mario Martínez-Azorín](mailto:)
+Primary TENs contact: Mario Martínez-Azorín
 
 > Scilloideae: Formerly circumscribed as Hyacinthaceae, this subfamily harbors a diverse group of geophytes being specially diverse in Mediterranean regions, widely distributed from Europe and North Africa to Central Asia and South America, renowned for their seasonality, bulbous habit, and iconic role in the spring floras of arid and seasonally arid regions.
 >

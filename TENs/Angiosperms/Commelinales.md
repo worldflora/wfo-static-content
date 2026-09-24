@@ -1,8 +1,8 @@
 ## Commelinales Working Group
 
-Administers: Commelinaceae, Haemodoraceae, Hanguanaceae, Philydraceae, and Pontederiaceae.
+__Administers:__ [Commelinales](/wfo-9000000130): Commelinaceae, Haemodoraceae, Hanguanaceae, Philydraceae, and Pontederiaceae.
 
-Primary TENs contact: [Marco Octávio de Oliveira Pellegrini](mailto:)
+Primary TENs contact: Marco Octávio de Oliveira Pellegrini
 
 > *This small order contains several economically relevant weeds and ornamental species. Its flowers are equally complex and ephemeral, making it one of the trickiest groups to study*
 >

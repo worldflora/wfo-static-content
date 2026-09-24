@@ -1,10 +1,10 @@
 ## Rubiaceae
 
-Administers: Rubiaceae
+__Administers:__ [Rubiaceae](/wfo-7000000534)
 
-External website: <https://sites.google.com/view/rubiaceae-gentianales>
+__External website:__ <https://sites.google.com/view/rubiaceae-gentianales>
 
-Primary TENs contact: [Brecht Verstraete](mailto:) from [Meise Botanic Garden](https://about.worldfloraonline.org/consortium-members/meise-botanic-garden)
+Primary TENs contact: Brecht Verstraete from [Meise Botanic Garden](https://about.worldfloraonline.org/consortium-members/meise-botanic-garden)
 
 Coordinators: Brecht Verstraete (Meise Botanic Garden, Belgium), Mariela Nuñez Florentin (Instituto de Botánica del Nordeste, Argentina), Axel Arriola (University of the East, Philippines)
 

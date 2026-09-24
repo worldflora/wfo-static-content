@@ -1,8 +1,8 @@
 ## Malpighiaceae
 
-Administers: Malpighiaceae
+__Administers:__ [Malpighiaceae](/wfo-7000000359)
 
-Primary TENs contact: [Rafael F. de Almeida](mailto:)
+Primary TENs contact: Rafael F. de Almeida
 
 This is the largest family of oil flowers worldwide, containing economically important ornamental, medicinal (ayahuasca), and fruit species (murici or nanche and acerola) in the Neotropics. 
 

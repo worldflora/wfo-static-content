@@ -1,9 +1,9 @@
 ![Acanthaceae ~rightflow](./_Acanthaceae/Lepidagathis_cristata_small.jpg)
 ## Acanthaceae
 
-Administers: Acanthaceae
+__Administers:__ [Acanthaceae](/wfo-7000000001)
 
-Primary TENs contact: [Iain Darbyshire](mailto:) from [Royal Botanic Gardens, Kew](https://about.worldfloraonline.org/consortium-members/royal-botanic-gardens-kew)
+Primary TENs contact: Iain Darbyshire from [Royal Botanic Gardens, Kew](https://about.worldfloraonline.org/consortium-members/royal-botanic-gardens-kew)
 
 > *Acanthaceae: A pantropical and subtropical family of exceptional diversity, ecological importance and conservation value*
 >

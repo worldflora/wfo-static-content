@@ -1,8 +1,8 @@
 ## Ebenaceae
 
-Administers: Ebenaceae
+__Administers:__ [Ebenaceae](/wfo-7000000206)
 
-Primary TENs contact: [Carmen Puglisi](mailto:) from [Missouri Botanical Garden](https://about.worldfloraonline.org/consortium-members/missouri-botanical-garden)
+Primary TENs contact: Carmen Puglisi from [Missouri Botanical Garden](https://about.worldfloraonline.org/consortium-members/missouri-botanical-garden)
 
 > Members of this Family are the source of the highly sought ebony wood as well as fruits generally referred to as persimmons.
 

@@ -2,7 +2,7 @@
 
 ## Annonaceae
 
-Administers: Annonaceae
+__Administers:__ [Annonaceae](wfo-7000000031)
 
 Primary TENs contact: [Thomas Couvreur](mailto:thomas.couvreur[at]rd.fr)
 

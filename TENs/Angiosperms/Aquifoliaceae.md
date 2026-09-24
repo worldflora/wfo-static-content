@@ -1,8 +1,8 @@
 ## Aquifoliaceae - Monographia Aquifoliacearum
 
-Administers: Aquifoliaceae
+__Administers:__ [Aquifoliaceae](/wfo-7000000041)
 
-External website: <http://www.ville-ge.ch/cjb/bd/aqf/>
+__External website:__ <http://www.ville-ge.ch/cjb/bd/aqf/>
 
 
 

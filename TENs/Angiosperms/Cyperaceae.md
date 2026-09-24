@@ -2,11 +2,11 @@
 
 ![Cyperaceae](./_Cyperaceae/graeffeana-WFO.jpg)
 
-Administers: Cyperaceae
+__Administers:__ [Cyperaceae](/wfo-7000000170)
 
-External website: <https://cyperaceae.org/>
+__External website:__ <https://cyperaceae.org/>
 
-Primary TENs contact: [Isabel Larridon](mailto:) from [Royal Botanic Gardens, Kew](https://about.worldfloraonline.org/consortium-members/royal-botanic-gardens-kew)
+Primary TENs contact: Isabel Larridon from [Royal Botanic Gardens, Kew](https://about.worldfloraonline.org/consortium-members/royal-botanic-gardens-kew)
 
 Pedro Jiménez Mejías from Universidad Pablo de Olavide; José Ignacio Márquez Corro from Universidad Pablo de Olavide.
 

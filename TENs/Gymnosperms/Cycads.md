@@ -1,7 +1,7 @@
 ## Cycads
 
-__Administers:__ Cycadaceae & Zamiaceae
+__Administers:__ [Cycadaceae](/wfo-7000000166) & [Zamiaceae](/wfo-7000000650)
 
-__External website:__ http://www.cycadgroup.org
+____External website:____ http://www.cycadgroup.org
 
 __Primary TENs contact:__ Michael Calonje

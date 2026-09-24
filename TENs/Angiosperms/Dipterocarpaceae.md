@@ -2,9 +2,9 @@
 
 ## Dipterocarpaceae - Forestry Research Programme Dipterocarpaceae Database
 
-Administers: Dipterocarpaceae
+__Administers:__ [Dipterocarpaceae](/wfo-7000000197)
 
-External website: <https://rbg-web2.rbge.org.uk/diptero/>
+__External website:__ <https://rbg-web2.rbge.org.uk/diptero/>
 
 Primary TENs contact: [Mark Newman](mailto:mnewman@rbge.org.uk) from [Royal Botanic Garden Edinburgh](https://about.worldfloraonline.org/consortium-members/royal-botanic-garden-edinburgh)
 

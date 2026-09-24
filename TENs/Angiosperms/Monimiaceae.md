@@ -1,8 +1,8 @@
 ## The Monimiaceae TEN
 
-Administers: Monimiaceae
+__Administers:__ [Monimiaceae](/wfo-7000000389)
 
-Primary TENs contact: [Elton John de Lírio](mailto:)
+Primary TENs contact: Elton John de Lírio
 
 Monimiaceae (Laurales) comprises a group predominantly of trees and shrubs and occasionally lianas, monocious or dioecious. It thrives in tropical and subtropical regions worldwide (Latin America, tropical Africa, Madagascar, Southeast Asia, Sri Lanka, Australasia, and Pacific Islands) and is an important component of humid forest flora in these regions, with particularly rich diversity in the southern hemisphere.
 

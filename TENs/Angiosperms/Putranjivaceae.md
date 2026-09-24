@@ -1,8 +1,8 @@
 ## Putranjivaceae
 
-Administers: Putranjivaceae
+__Administers:__ [Putranjivaceae](/wfo-7000000509)
 
-Primary TENs contact: [Alejandro Quintanar](mailto:) from [Real Jardín Botánico CSIC](https://about.worldfloraonline.org/consortium-members/rjb-csic)
+Primary TENs contact: Alejandro Quintanar from [Real Jardín Botánico CSIC](https://about.worldfloraonline.org/consortium-members/rjb-csic)
 
 > *Putranjivaceae: A diverse, pantropical family of dioecious trees of high ecological, conservation and phytochemical value*
 

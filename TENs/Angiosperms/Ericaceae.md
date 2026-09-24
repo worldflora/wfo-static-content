@@ -2,9 +2,9 @@
 
 ![Ericaceae](./_Ericaceae/Rhododendron_himantodes_2_banner.jpg)
 
-Administers: Ericaceae
+__Administers:__ [Ericaceae](/wfo-7000000218)
 
-External website: <https://padme.rbge.org.uk/ericaceae/welcome>
+__External website:__ <https://padme.rbge.org.uk/ericaceae/welcome>
 
 Primary TENs contact: [Alan Elliott](mailto:aelliott@rbge.org.uk) from [Royal Botanic Garden Edinburgh](https://about.worldfloraonline.org/consortium-members/royal-botanic-garden-edinburgh)
 

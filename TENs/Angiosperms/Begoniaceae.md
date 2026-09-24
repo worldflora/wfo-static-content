@@ -2,9 +2,9 @@
 
 ![Begoniaceae - Begonia Resource Centre](./_Begoniaceae/Photo_5774ee24ada66-3_banner.jpg)
 
-Administers: Begoniaceae
+__Administers:__ [Begoniaceae](/wfo-7000000068)
 
-External website: <https://padme.rbge.org.uk/Begonia/>
+__External website:__ <https://padme.rbge.org.uk/Begonia/>
 
 Primary TENs contact: [Mark Hughes](mailto:mhughes@rbge.org.uk) from [Royal Botanic Garden Edinburgh](https://about.worldfloraonline.org/consortium-members/royal-botanic-garden-edinburgh)
 

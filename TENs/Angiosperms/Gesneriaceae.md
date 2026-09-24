@@ -1,10 +1,10 @@
 ## Gesneriaceae
 
-Administers: Gesneriaceae
+__Administers:__ [Gesneriaceae](/wfo-7000000247)
 
-External website: <https://padme.rbge.org.uk/grc>
+__External website:__ <https://padme.rbge.org.uk/grc>
 
-Primary TENs contact: [Michael Möller](mailto:) from [Royal Botanic Garden Edinburgh](https://about.worldfloraonline.org/consortium-members/royal-botanic-garden-edinburgh)
+Primary TENs contact: Michael Möller from [Royal Botanic Garden Edinburgh](https://about.worldfloraonline.org/consortium-members/royal-botanic-garden-edinburgh)
 
 > Gesneriaceae: A pan-tropical and species diverse family of ecological importance
 

@@ -1,9 +1,9 @@
 ![The Bryophyte Nomenclator ~rightflow](./_images/a89de370-7677-487b-91e8-edc4b852ba5e_rw_1200.jpg)
 ## The Bryophyte Nomenclator
 
-Administers: Bryophytes
+__Administers:__ [Bryophytes](/wfo-4100002138)
 
-External website: <https://www.bryonames.org/>
+__External website:__ <https://www.bryonames.org/>
 
 Primary TENs contact: [John Brinda](mailto:john.brinda@mobot.org) from [Missouri Botanical Garden](https://about.worldfloraonline.org/consortium-members/missouri-botanical-garden)
 

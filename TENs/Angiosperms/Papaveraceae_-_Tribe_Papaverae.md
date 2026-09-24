@@ -1,9 +1,9 @@
 
 ## Papaveraceae - Tribe Papaverae
 
-Administers: Papaveraceae - Tribe Papavereae
+__Administers:__ [Papaveraceae](/wfo-7000000440) - Tribe [Papavereae](/wfo-4100000001)
 
-External website: [https://themeconopsisgroup.org](https://themeconopsisgroup.org/)
+__External website:__ [https://themeconopsisgroup.org](https://themeconopsisgroup.org/)
 
 Primary TENs contact: [Alan Elliott](mailto:aelliott@rbge.org.uk) from [Royal Botanic Garden Edinburgh](https://www.rbge.org.uk)
 

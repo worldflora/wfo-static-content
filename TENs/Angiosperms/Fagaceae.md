@@ -1,8 +1,8 @@
 ## Fagaceae
 
-Administers: Fagaceae
+__Administers:__ [Fagaceae](/wfo-7000000231)
 
-Primary TENs contact: [Joeri S. Strijk](mailto:)
+Primary TENs contact: Joeri S. Strijk
 
 Fagaceae are a family of global importance and are a conspicuous element in major forest ecosystems of both temperate and (sub)tropical ecosystems. Contrary to public perception of Fagaceae being a typical temperate group, most species (and genera) are actually restricted to the (sub)tropics. Two global centers of diversity can be found: one is the range covering the southern USA through Mexico to Central America, and the second is subtropical southern China to Southeast Asia. Smaller numbers occur in Europe and around the Mediterranean Basin.
 

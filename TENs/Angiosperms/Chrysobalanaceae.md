@@ -2,9 +2,9 @@
 
 ![Moquilea tomentosa D.Cardoso](./_Chrysobalanaceae/Moquilea_tomentosa-D.Cardoso_banner.jpg)
 
-Administers: Chrysobalanaceae
+__Administers:__ [Chrysobalanaceae](/wfo-7000000132)
 
-Primary TENs contact: [Renata Camargo Asprino Pereira](mailto:) from [Botany Department of Trinity College Dublin](https://about.worldfloraonline.org/consortium-members/botany-department-of-trinity-college-dublin)
+Primary TENs contact: Renata Camargo Asprino Pereira from [Botany Department of Trinity College Dublin](https://about.worldfloraonline.org/consortium-members/botany-department-of-trinity-college-dublin)
 
 > Chrysobalanaceae: A pantropical family of woody plants ecologically prominent in tropical forests and undergoing active taxonomic revision informed by modern phylogenetic research
 >

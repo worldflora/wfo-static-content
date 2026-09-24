@@ -2,9 +2,9 @@
 
 ![Anchusa azurea Maria-Anna-Vasile](./_Boraginales/Anchusa_azurea_Maria-Anna-Vasile_banner.jpg)
 
-Administers: Boraginales (incl. Codonaceae, Wellstediaceae, Boraginaceae, Hydrophyllaceae, Ehretiaceae, Cordiaceae, Coldeniaceae, Hoplestigmataceae, Heliotropiaceae)
+__Administers:__ [Boraginales](/wfo-9000000067) (incl. Codonaceae, Wellstediaceae, Boraginaceae, Hydrophyllaceae, Ehretiaceae, Cordiaceae, Coldeniaceae, Hoplestigmataceae, Heliotropiaceae)
 
-Primary TENs contact: [Maximilian Weigend](mailto:) from [University of Bonn](https://about.worldfloraonline.org/consortium-members/university-of-bonn)
+Primary TENs contact: Maximilian Weigend from [University of Bonn](https://about.worldfloraonline.org/consortium-members/university-of-bonn)
 
 Coordinators: Maria-Anna Vasile from Berlin Botanical Garden and Botanical Museum\
  Michael G. Simpson from San Diego State University\

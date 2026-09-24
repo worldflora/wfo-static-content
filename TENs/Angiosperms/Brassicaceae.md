@@ -2,11 +2,11 @@
 
 ![Brassicaceae](./_Brassicaceae/Coluteocarpus_vesicaria.jpg)
 
-Administers: Brassicaceae
+__Administers:__ [Brassicaceae](/wfo-7000000082)
 
-External website: <https://brassibase.cos.uni-heidelberg.de/>
+__External website:__ <https://brassibase.cos.uni-heidelberg.de/>
 
-Primary TENs contact: [Marcus A Koch](mailto:) from [Heidelberg Botanic Garden and Herbarium (HEID)](https://about.worldfloraonline.org/consortium-members/heidelberg-botanic-garden-and-herbarium-heid)
+Primary TENs contact: Marcus A Koch from [Heidelberg Botanic Garden and Herbarium (HEID)](https://about.worldfloraonline.org/consortium-members/heidelberg-botanic-garden-and-herbarium-heid)
 
 > Brassicaceae
 > ------------

@@ -1,8 +1,8 @@
 ## Asteraceae - The International Compositae Alliance
 
-Administers: Asteraceae (Compositae)
+__Administers:__ [Asteraceae](/wfo-7000000146) (Compositae)
 
-External website: <https://www.compositae.org/>
+__External website:__ <https://www.compositae.org/>
 
-Primary TENs contact: [Mauricio Bonifacino de León](mailto:)
+Primary TENs contact: Mauricio Bonifacino de León
 

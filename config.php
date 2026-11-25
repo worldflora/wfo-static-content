@@ -31,12 +31,7 @@ $pages_menu = [
                 "title" => "Taxonomic Expert Networks",
                 "path" => "/pages/TENs/",
                 "children" => []
-            ],
-            [
-                "title" => "Council Photos",
-                "path" => "/pages/council_images/",
-                "children" => []
-            ]     
+            ]  
         ]
     ],
     [
@@ -50,16 +45,6 @@ $pages_menu = [
             [
                     "title" => "Documents",
                     "path" => "/pages/Documents/",
-                    "children" => []
-            ],
-            [
-                    "title" => "FAQ",
-                    "path" => "/pages/faq.md",
-                    "children" => []
-            ],
-            [
-                    "title" => "Floras",
-                    "path" => "/pages/Floras/",
                     "children" => []
             ]
         ]

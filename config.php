@@ -11,19 +11,24 @@
 $pages_menu = [
     [
         "title" => "About us",
-        "path" => "/pages/about.md",
-        "children" => []
-    ],
-    [
-        "title" => "Stories",
-        "path" => "/pages/Stories/",
-        "children" => []
-    ],
-    [
-        "title" => "Members",
         "children" => [
             [
-                "title" => "Consortium Members",
+                "title" => "A global gateway to plan knowledge",
+                "path" => "/pages/about.md",
+                "children" => []
+            ],
+            [
+                "title" => "Rooted in International Agreements",
+                "path" => "/pages/about.md",
+                "children" => []
+            ],
+            [
+                "title" => "Governance",
+                "path" => "/pages/about.md",
+                "children" => []
+            ],
+            [
+                "title" => "WFO members",
                 "path" => "/pages/Consortium/",
                 "children" => []
             ],
@@ -31,28 +36,46 @@ $pages_menu = [
                 "title" => "Taxonomic Expert Networks",
                 "path" => "/pages/TENs/",
                 "children" => []
-            ]  
-        ]
-    ],
-    [
-        "title" => "Resources",
-        "children" => [
+            ],
             [
                     "title" => "Data & APIs",
                     "path" => "/pages/data_and_apis.md",
                     "children" => []
-            ],
-            [
-                    "title" => "Documents",
-                    "path" => "/pages/Documents/",
-                    "children" => []
-            ]
+            ]  
+
+
         ]
     ],
-
+    [
+        "title" => "News",
+        "path" => "/pages/Stories/",
+        "children" => []
+    ],
     [
         "title" => "Contribute",
-        "path" => "/pages/contribute.md",
-        "children" => []
+        "path" => "",
+        "children" => [
+            [
+                "title" => "Expertise",
+                "path" => "/pages/contribute.md",
+                "children" => []
+            ],
+            [
+                "title" => "Membership",
+                "path" => "/pages/contribute.md",
+                "children" => []
+            ],
+            [
+                "title" => "Use WFO data",
+                "path" => "/pages/contribute.md",
+                "children" => []
+            ],
+            [
+                "title" => "Donate",
+                "path" => "/pages/contribute.md",
+                "children" => []
+            ]
+
+        ]
     ]
 ];

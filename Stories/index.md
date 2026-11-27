@@ -1,4 +1,4 @@
-## WFO Stories
+## News
 
 The WFO is a global collaboration with a diverse range of users and contributors. This page gives the opportunity to share news and experiences of the project. [Contact the WFO](mailto:taxwg@worldfloraonline.org) with your contribution.
 
